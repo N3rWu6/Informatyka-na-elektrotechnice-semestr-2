@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710941053 source:d:\bogumi³ partyka\fstream\main.cpp
+	<iostream>
+	<fstream>
+
